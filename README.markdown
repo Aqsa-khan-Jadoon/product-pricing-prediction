@@ -24,8 +24,7 @@ product-pricing-prediction/
 ├── dataset/
 │   ├── train.csv        # Training dataset (80,000 rows)
 │   └── test.csv         # Test dataset (80,000 rows)
-├── src/
-│   └── pricing_prediction.py  # PySpark script for the hybrid model
+├── pricing_prediction.py  # PySpark script for the hybrid model
 ├── README.md            # Project documentation
 ├── .gitignore           # Ignores Python temp files
 └── .gitattributes       # Git LFS configuration for datasets
@@ -122,7 +121,7 @@ Contributions are welcome! Feel free to:
 
 ## 📬 Contact
 
-For questions, reach out via GitHub Issues or email at your.email@example.com.
+For questions, reach out via GitHub Issues or email at jadoonaqsakhan@gmail.com.
 
 ---
 
